@@ -15,7 +15,7 @@
 ---
 
 ## 🛠 Skills & Tools
-- **Hardware/Design:** Verilog, Cadence Virtuoso, Innovus, xilinx
+- **Hardware/Design:** Verilog, VHDL, Cadence Virtuoso, Innovus, xilinx
 - **Programming:** C, C++, MATLAB  
 - **Core Areas:** VLSI, Digital & Analog Circuits, Semiconductor Devices, Algorithms  
 
